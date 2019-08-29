@@ -47,6 +47,13 @@ ApplicationWindow {
                 Layout.fillWidth: true
                 focus: true
                 placeholderText: "Search"
+                selectByMouse: true
+
+                MouseArea {
+                    anchors.fill: parent
+                    cursorShape: Qt.IBeamCursor
+                    acceptedButtons: Qt.NoButton
+                }
                 //                textColor: "#000000"
             }
             BusyIndicator {

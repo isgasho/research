@@ -148,6 +148,7 @@ here we will only use `rust-qt-binding-generator`
 * https://www.kdab.com/declarative-widgets/
 * https://gitlab.com/b0/spectral
 * https://github.com/telegramdesktop/tdesktop/issues/2464
+* https://www.youtube.com/watch?v=pa-npvZcm6o
 
 
 ### Rust Program + Qt static
