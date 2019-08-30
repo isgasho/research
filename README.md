@@ -37,6 +37,7 @@ The rating ranges from <span style="color:green">++</span> for very good, to <sp
 The following options exists but were not included because they are not mature enough.
 
 * [Flutter desktop](https://github.com/google/flutter-desktop-embedding) & [flutter-rs](https://github.com/gliheng/flutter-rs): not mature enough
+* [Electron + WASM](https://gitlab.com/z0mbie42/rust_gui_ecosystem_overview/issues/3): out of scope + not mature enough
 * [Relm](https://github.com/antoyo/relm): Gtk overlay, looks good
 * [Azul](https://github.com/maps4print/azul): not mature enough
 * [Conrod](https://github.com/PistonDevelopers/conrod): not mature enough
