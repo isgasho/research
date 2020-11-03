@@ -424,6 +424,9 @@ These apps or libraries do not necessarly use e2ee but are still worth looking a
 * https://libsodium.gitbook.io/doc/secret-key_cryptography/encrypted-messages
 
 
+### Threema
+
+* https://threema.ch/en/blog/posts/md-architectural-overview#main
 
 ## Apple cryptoKit
 
